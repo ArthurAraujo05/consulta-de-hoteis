@@ -26,7 +26,6 @@ Host: localhost:5000
     "estrelas": 5.0,
     "diaria": 490.50
   },
-  ...
 ]
 ```
 
